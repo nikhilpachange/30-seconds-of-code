@@ -1,5 +1,6 @@
 # Contribution Guidelines
 
+
 **30 seconds of code** is supported by the community, so feel free to contribute in any way you can to help!
 
 ## How you can help
